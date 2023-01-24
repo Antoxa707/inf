@@ -1,4 +1,4 @@
-﻿Var a, b: real;
+﻿Var a, b: integer;
 var x:real;
 begin
 writeln('Insert a and b for ax=b');
